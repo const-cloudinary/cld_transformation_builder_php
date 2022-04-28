@@ -1,5 +1,5 @@
 {
-  "name": "cloudinary/cld_transformation_builder_php",
+  "name": "const-cloudinary/cld_transformation_builder_php",
   "version": "1.0.0",
   "description": "Cloudinary Transformation Builder PHP SDK",
   "keywords": [
